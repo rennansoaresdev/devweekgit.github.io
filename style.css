@@ -1,23 +1,4 @@
-style.css
-Quem pode acessar
 
-Propriedades do sistema
-Tipo
-Folha de estilo
-Tamanho
-2 KB
-Armazenamento usado
-2 KB
-Local
-day 02
-Proprietário
-Daniel Santos
-Modificado
-10 de abr. de 2022 por Daniel Santos
-Criado em
-10 de abr. de 2022
-Sem descrição
-Os leitores podem fazer o download
 * {
     margin: 0;
     padding: 0;
@@ -58,7 +39,9 @@ Os leitores podem fazer o download
 
 .profile .profile-image {
     width: 100%;
-    border-radius: 100%;
+    height: 40%;
+    border-radius: 50%;
+    
 }
 
 .name {
@@ -66,6 +49,7 @@ Os leitores podem fazer o download
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
+
 }
 
 .profession {
@@ -73,22 +57,26 @@ Os leitores podem fazer o download
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
+
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
     color: #eeeeee;
     font-size: 20px;
+
 }
 
 .contact-info ul {
     padding-top: 1.5rem;
+
 }
 
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
     color: #eeeeee;
+
 }
 
 .contact-info ul li i,
@@ -96,10 +84,12 @@ Os leitores podem fazer o download
     padding-right: 1rem;
     font-size: 18px;
     color: #eeeeee;
+
 }
 
 .skills ul {
     padding-top: 1.5rem;
+
 }
 .skills ul li p {
     padding: .4rem 0;
@@ -116,8 +106,10 @@ Os leitores podem fazer o download
 
 .gap {
     padding-bottom: 2rem;
+
 }
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
+
 }
