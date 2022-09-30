@@ -22,7 +22,7 @@
 }
 
 .right-section {
-
+    
     grid-column: span 5;
     height: 100%;
     background-color: #424a50;
@@ -34,56 +34,36 @@
 }
 
 .profile {
-
     width: 125%;
-
-    width: 100%;
-
     border-bottom: 2px solid #eeeeee;
 }
 
 .profile .profile-image {
-
     width: 80%;
     height: 35%;
     border-radius: 100%;
-
-    width: 100%;
-    height: 40%;
-    border-radius: 50%;
-
 }
 
 .name {
     color: #D6DBDF;
     font-size: 30px;
-
     letter-spacing: 1px;
     text-transform: uppercase;
     margin-left: 50px;
     
-
-    letter-spacing: 2px;
-    text-transform: uppercase;
-
 }
 
 .profession {
     color: #eeeeee;
     font-size: 20px;
     text-transform: uppercase;
-
     margin-left: 83px;
-
-    text-align: center;
-
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
     color: #eeeeee;
     font-size: 20px;
-
     text-transform: uppercase;
     margin-left: 10px;
 }
@@ -91,19 +71,12 @@
 .contact-info ul {
     
     padding-top: 1.5rem;
-
-}
-
-.contact-info ul {
-    padding-top: 1.5rem;
-
 }
 
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
     color: #eeeeee;
-
 }
 
 .contact-info ul li i,
@@ -111,7 +84,6 @@
     padding-right: 1rem;
     font-size: 18px;
     color: #eeeeee;
-
 }
 
 .skills {
@@ -119,12 +91,6 @@
     color: #eeeeee;
     padding-top: 1rem;
     margin-left: 10px;
-
-}
-
-.skills ul {
-    padding-top: 1.5rem;
-
 }
 .skills ul li p {
     padding: .4rem 0;
@@ -132,11 +98,8 @@
 }
 
 .right-section-contents {
-
+    
  margin-left: 10px;   padding: 2rem 2rem;
-
-    padding: 2rem 2rem;
-
 }
 
 .right-title {
@@ -145,12 +108,10 @@
 
 .gap {
     padding-bottom: 2rem;
-
 }
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
-
 }
 
 .experience-contents,
@@ -190,5 +151,5 @@
     font-size: 16px;
     padding-left: 5px;
     
-
 }
+/* teste */
